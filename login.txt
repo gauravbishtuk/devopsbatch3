@@ -1,1 +1,7 @@
-This is my login page. Enter your Username
+This is my login page. 
+
+Enter your Username= Username
+
+Welcome $Username
+
+
